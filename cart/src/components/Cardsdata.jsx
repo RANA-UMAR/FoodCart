@@ -107,6 +107,43 @@ const Cardsdata = [
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
          qnty:0
     },
+    {
+        id: 10,
+        rname: "Momoman",
+        imgdata: "https://b.zmtcdn.com/data/pictures/chains/1/113401/59f29399060caefcc575d59dc9402ce8_o2_featured_v2.jpg",
+        address: "Momos",
+        delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
+        somedata: " 300 + order placed from here recently",
+        price: 70,
+        rating: "3.8",
+        arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
+         qnty:0
+    },
+    {
+        id: 11,
+        rname: "Jassi De Parathe",
+        imgdata: "https://b.zmtcdn.com/data/pictures/chains/5/110225/3978e28854b7496dbef9496546734811_o2_featured_v2.jpg",
+        address: "North Indian",
+        delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
+        somedata: "1050 + order placed from here recently",
+        price: 210,
+        rating: "4.0",
+        arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
+         qnty:0
+    },
+    {
+        id: 12,
+        rname: "Anjoy Latenight Meals",
+        imgdata: "https://b.zmtcdn.com/data/pictures/5/113895/3c06f6fbb8f667a2537dfdb6f060dc8b_o2_featured_v2.jpg",
+        address: "Wraps FastFood, Chines",
+        delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
+        somedata: " 1100 + order placed from here recently",
+        price: 100,
+        rating: "3.8",
+        arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
+         qnty:0
+    },
+    
 ];
 
 export default Cardsdata;
